@@ -1,0 +1,12 @@
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Kang.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Kang.pdb
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\ChnCharInfo.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Google.Protobuf.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\MySql.Data.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\NPinyinPro.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Qiniu.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\Google.Protobuf.xml
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Release\MySql.Data.xml
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\obj\Release\Kang.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\obj\Release\Kang.pdb

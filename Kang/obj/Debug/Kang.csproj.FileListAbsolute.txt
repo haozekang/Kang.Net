@@ -1,0 +1,45 @@
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\Kang.dll
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\Kang.pdb
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\MySql.Data.dll
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\Google.Protobuf.dll
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\MySql.Data.xml
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\obj\Debug\Kang.dll
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\obj\Debug\Kang.pdb
+c:\users\kang\documents\visual studio 2015\Projects\Kang\Kang\bin\Debug\Kang.XML
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Debug\Google.Protobuf.xml
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Debug\Qiniu.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Debug\ChnCharInfo.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\bin\Debug\NPinyinPro.dll
+C:\Users\Kang\Documents\Visual Studio 2015\Projects\Kang\Kang\obj\Debug\Kang.csprojResolveAssemblyReference.cache
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Kang.XML
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Kang.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Kang.pdb
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\ChnCharInfo.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Google.Protobuf.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\MySql.Data.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\NPinyinPro.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Qiniu.dll
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\Google.Protobuf.xml
+C:\Users\kang\Desktop\Kang\Kang\bin\Debug\MySql.Data.xml
+C:\Users\kang\Desktop\Kang\Kang\obj\Debug\Kang.csprojResolveAssemblyReference.cache
+C:\Users\kang\Desktop\Kang\Kang\obj\Debug\Kang.dll
+C:\Users\kang\Desktop\Kang\Kang\obj\Debug\Kang.pdb
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Kang.XML
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Kang.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Kang.pdb
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\ChnCharInfo.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Google.Protobuf.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\MySql.Data.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\NPinyinPro.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Qiniu.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\Google.Protobuf.xml
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\MySql.Data.xml
+C:\Users\kang\Documents\Kang\Kang\obj\Debug\Kang.dll
+C:\Users\kang\Documents\Kang\Kang\obj\Debug\Kang.pdb
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kang\Documents\Kang\Kang\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kang\Documents\Kang\Kang\obj\Debug\Kang.csprojResolveAssemblyReference.cache
